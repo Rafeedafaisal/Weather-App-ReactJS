@@ -1,0 +1,10 @@
+.container-fluid{
+    background-image: url("https://th.bing.com/th/id/R.8fe8c240e906e279a06652b43ba223f6?rik=unOVIILOnPK2sQ&riu=http%3a%2f%2fpavbca.com%2fwalldb%2foriginal%2f6%2fa%2f9%2f809495.jpg&ehk=VWlYOsLzHXtij9UEeAluwKy2CIvgHuBxSwWu72AJRbs%3d&risl=&pid=ImgRaw&r=0");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 730px;
+}
+#r1{
+    height: 300px;
+}
